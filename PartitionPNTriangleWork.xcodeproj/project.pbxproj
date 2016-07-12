@@ -209,6 +209,7 @@
 		7B4A638F1D35133200C4A34C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"HEADER_SEARCH_PATHS[arch=*]" = /Users/jimmower/Documents/dev/glm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -216,6 +217,7 @@
 		7B4A63901D35133200C4A34C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"HEADER_SEARCH_PATHS[arch=*]" = /Users/jimmower/Documents/dev/glm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
